@@ -107,7 +107,7 @@ export default function Index() {
                       value={title}
                       disabled={loading}
                       onChange={(e) => setTitle(e.target.value)}
-                      placeholder="e.g. What Is Simplilearn?"
+                      placeholder="e.g. What Is PT. Lambda Solusi Informatika?"
                     />
                   </Form.Group>
                 </Col>

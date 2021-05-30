@@ -15,7 +15,7 @@ function MyApp({ Component, pageProps }) {
   return (
     <Fragment>
       <Head>
-        <title>Simplilearn</title>
+        <title>PT. Lambda Solusi Informatika</title>
       </Head>
       <Component {...pageProps} />
     </Fragment>

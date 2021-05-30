@@ -11,7 +11,7 @@ export default function Index() {
       <Navbar bg="dark" variant="dark">
         <Container>
           <Link href="/">
-            <Navbar.Brand>SIMPLILEARN</Navbar.Brand>
+            <Navbar.Brand>PT. Lambda Solusi Informatika</Navbar.Brand>
           </Link>
           {app.session.data._id === undefined ? (
             <Link href="/user/login">

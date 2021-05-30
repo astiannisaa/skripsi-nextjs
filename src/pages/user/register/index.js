@@ -32,13 +32,12 @@ export default function Index() {
         style={{
           top: "50%",
           left: "50%",
-          width: "25%",
           position: "absolute",
           transform: "translate(-55%, -55%)",
         }}
       >
         <div style={{ textAlign: "center" }}>
-          <h1>SIMPLILEARN</h1>
+          <h1>PT. Lambda Solusi Informatika</h1>
           <h5>Register to start learning</h5>
         </div>
         <hr />
